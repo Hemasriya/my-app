@@ -7,7 +7,6 @@ import Resume from './resume';
 
 //import SC from './StatesConcept';
 let App=()=>{
-    let a=["sriya","sai","meghana"]
   
   return(
     
